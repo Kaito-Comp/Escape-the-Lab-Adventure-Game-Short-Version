@@ -7,3 +7,5 @@ Features
 -  Inventory system
 -  Terminal-based gameplay
 -  Super Short
+
+Terminal Code is on branch main.py
